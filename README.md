@@ -8,6 +8,7 @@ PLEASE look at [lib/Custom/Keys.hs](https://github.com/Techtiger255/xbronad/blob
 They're simple, but most defaults are overriden -- help messages are strewn about, but it helps to know what they are before diving in.
 
 ```
+#!/bin/cursed-lang
 let
   M  = (Super || Meta || Command || Winblows) key
   M1 = Alt key
