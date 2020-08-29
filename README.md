@@ -1,5 +1,7 @@
 # xbronad
 
+An xmonad config that attempts to stand out from all the rest, while keeping end-user simplicity.
+
 Based on [DT's config](https://gitlab.com/dwt1/dotfiles/-/tree/master/.xmonad), however, it's blossomed into much much more.
 
 > For simple reconfiguring look at [lib/Custom/Vars.hs](https://github.com/Techtiger255/xbronad/blob/master/lib/Custom/Vars.hs)
