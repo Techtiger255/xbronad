@@ -1,5 +1,8 @@
 # xbronad
 
+[DISCLAIMER] I use us(colemak) instead of qwerty, so you'll likely want to modify the keybindings to suit you better.
+If someone wants to contribute a dynamic key-location-on-keyboard solution that would be appreciated. Without `XMonad.Actions.KeyRemap` peferrably, as it doesn't seems to support additionalKeysP. Although, that could be modded :thonk:... That solution still probably wouldn't be nice because people not using colemak would have a hard time rebinding these to what they want. If not, I'll probably get around to it **eventually**.
+
 An xmonad config that attempts to stand out from all the rest, while keeping end-user simplicity.
 
 Based on [DT's config](https://gitlab.com/dwt1/dotfiles/-/tree/master/.xmonad), however, it's blossomed into much much more.
